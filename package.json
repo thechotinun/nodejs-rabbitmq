@@ -1,0 +1,20 @@
+{
+  "name": "rabbit-mq-learning",
+  "version": "1.0.0",
+  "description": "learning rabbitMQ base on javascript",
+  "main": "sender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rabbitMQ",
+    "messaging",
+    "message",
+    "broker"
+  ],
+  "author": "4l2T",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
